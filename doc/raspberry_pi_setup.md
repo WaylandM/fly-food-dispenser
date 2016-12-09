@@ -1,6 +1,6 @@
 #Raspberry Pi Setup
 
-distribution used
+distribution used: Raspbian
 
 configuration
 
