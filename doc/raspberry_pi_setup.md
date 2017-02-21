@@ -1,6 +1,13 @@
 #Raspberry Pi Setup
 
 ##Installing image on SD card
+
+Get Raspbian Jessie based PiTFT image from:
+
+[https://s3.amazonaws.com/adafruit-raspberry-pi/2016-10-18-pitft-28r.zip](https://s3.amazonaws.com/adafruit-raspberry-pi/2016-10-18-pitft-28r.zip)
+
+Instructions for installing images:
+
 https://www.raspberrypi.org/documentation/installation/installing-images/README.md
 
 ##Configuration
