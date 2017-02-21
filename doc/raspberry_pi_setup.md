@@ -14,7 +14,7 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
-##Rotate screen
+<!---##Rotate screen
 If using with 7" official raspberry pi touch screen, may need to rotate display. To do this, open /boot/config.txt in your favourite editor and add the line:
 ```
 lcd_rotate=2
@@ -25,4 +25,5 @@ distribution used: Raspbian
 configuration
 
 display
+--->
 
