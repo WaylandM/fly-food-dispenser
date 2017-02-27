@@ -100,6 +100,94 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
       </step>
     </manufacturing_instruction>
   </physical_part>
+  <physical_part id="2031264473">
+    <description>24V 350W 14.6A Power Supply</description>
+    <supplier>Ooznest</supplier>
+    <supplier_part_num>PWSPLY-12V-350</supplier_part_num>
+    <manufacturer_part_num>PWSPLY-12V-350</manufacturer_part_num>
+    <url>http://ooznest.co.uk/3D-Printer-Electronic-Parts/Power-Supplies/12V-350W-Power-Supply</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1921182216">
+    <description>NEMA17 Stepper Motor 77oz 1.68A</description>
+    <supplier>Ooznest</supplier>
+    <supplier_part_num>NEMA17STEPPERMOTOR</supplier_part_num>
+    <manufacturer_part_num>1704HS168A</manufacturer_part_num>
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="394556964">
+    <description>Adafruit Synthetos gShield (grblshield) V5</description>
+    <supplier>makersify</supplier>
+    <supplier_part_num>Adafruit product code: 1750</supplier_part_num>
+    <manufacturer_part_num>Adafruit product code: 1750</manufacturer_part_num>
+    <url>https://makersify.com/products/adafruit-synthetos-gshield-grblshield-v5</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1103298512">
+    <description>Adafruit Proto Shield for Arduino Kit - Stackable Version R3</description>
+    <supplier>Makersify</supplier>
+    <supplier_part_num>Adafruit product code: 2077</supplier_part_num>
+    <manufacturer_part_num>Adafruit product code: 2077</manufacturer_part_num>
+    <url>https://makersify.com/products/adafruit-proto-shield-for-arduino-kit-stackable-version-r3</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1740620439">
+    <description>Raspberry Pi 3</description>
+    <supplier>pimoroni</supplier>
+    <supplier_part_num>RPI-007</supplier_part_num>
+    <manufacturer_part_num>Raspberry Pi 3 Model B</manufacturer_part_num>
+    <url>https://shop.pimoroni.com/products/raspberry-pi-3</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="483063596">
+    <description>Pibow PiTFT+</description>
+    <supplier>pimoroni</supplier>
+    <supplier_part_num>PIM118</supplier_part_num>
+    <manufacturer_part_num>PIM118</manufacturer_part_num>
+    <url>https://shop.pimoroni.com/products/pitft-plus-pibow</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="193647161">
+    <description>Arduino Uno Revision 3</description>
+    <supplier>RS Online</supplier>
+    <supplier_part_num>715-4081</supplier_part_num>
+    <manufacturer_part_num>A000066</manufacturer_part_num>
+    <url>http://uk.rs-online.com/web/p/products/7154081/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="583136212">
+    <description>PiTFT Plus 320 x 240 2.8" TFT+ Resistive Touchscreen</description>
+    <supplier />
+    <supplier_part_num>ADA2298</supplier_part_num>
+    <manufacturer_part_num>ADA2298</manufacturer_part_num>
+    <url>https://shop.pimoroni.com/search?type=product&amp;q=pitft%2B</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
   <brick id="159776940">
     <name>CNC fly food dispenser</name>
     <abstract />
@@ -156,6 +244,7 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
       <quantity>16</quantity>
       <implementation type="physical_part" id="1420365321" />
     </function>
+    <instruction name="" />
   </brick>
   <brick id="1394106408">
     <name>Unnamed</name>
