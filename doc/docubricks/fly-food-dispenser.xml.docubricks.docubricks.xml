@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="docubricks.xsl"?>
+<docubricks>
+  <physical_part id="465396538">
+    <description>Material - Delrin (black)
+Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'
+Rockwell Hardness M80
+Compressive Strengh 63Mpa</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 25</supplier_part_num>
+    <manufacturer_part_num>SKU: 25</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/delrin-v-wheel/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1329328142">
+    <description>625 2RS Ball Bearing
+ABEC 1
+5mm Bore
+16mm OD
+5mm Width</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 30</supplier_part_num>
+    <manufacturer_part_num>SKU: 30</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/ball-bearing-625-2rs-5x16x5/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1476891621">
+    <description>10mm OD * 5mm Bore * 1mm thickness</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 5</supplier_part_num>
+    <manufacturer_part_num>SKU: 5</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/precision-shim-10x5x1mm/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="375339629">
+    <description>A 710 mm length of 20 x 40 mm cross-section V-slot linear rail.</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 235 - LP</supplier_part_num>
+    <manufacturer_part_num>SKU: 235 - LP</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/v-slot-linear-rail/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction>
+      <step>
+        <description>Cut to length using mitre saw.</description>
+        <media />
+      </step>
+    </manufacturing_instruction>
+  </physical_part>
+  <physical_part id="1153134511">
+    <description>M5 Thread Size
+Shiny Nickel Plating
+Use for 10mm size slot (V-Slot)
+Made from strong steel
+Mounts with M5x4mm set screws or standard OpenBuilds M5 screws</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 536</supplier_part_num>
+    <manufacturer_part_num>SKU: 536</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/tee-nuts-25-pack/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <brick id="159776940">
+    <name>CNC fly food dispenser</name>
+    <abstract />
+    <long_description />
+    <notes />
+    <license>CC-BY 3.0</license>
+    <media />
+    <assembly_instruction />
+  </brick>
+  <brick id="1774157860">
+    <name>Base frame</name>
+    <abstract />
+    <long_description>Base frame for machine. Provides rigid base for robot and also supports the platform for trays/boxes.</long_description>
+    <notes />
+    <license />
+    <media />
+    <assembly_instruction />
+  </brick>
+  <author id="1685846799">
+    <name>Matthew T Wayland</name>
+    <email>mw283@cam.ac.uk</email>
+    <orcid>0000-0002-8095-858X</orcid>
+    <affiliation>University of Cambridge, Department of Zoology</affiliation>
+  </author>
+  <author id="2145835443">
+    <name />
+    <email />
+    <orcid />
+    <affiliation />
+  </author>
+</docubricks>
