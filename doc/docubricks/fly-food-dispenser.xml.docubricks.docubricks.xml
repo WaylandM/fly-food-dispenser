@@ -2,10 +2,8 @@
 <?xml-stylesheet type="text/xml" href="docubricks.xsl"?>
 <docubricks>
   <physical_part id="465396538">
-    <description>Material - Delrin (black)
-Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'
-Rockwell Hardness M80
-Compressive Strengh 63Mpa</description>
+    <description>Delrin Dual V Wheel.
+Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <supplier>OpenBuilds Part Store</supplier>
     <supplier_part_num>SKU: 25</supplier_part_num>
     <manufacturer_part_num>SKU: 25</manufacturer_part_num>
@@ -16,11 +14,7 @@ Compressive Strengh 63Mpa</description>
     <manufacturing_instruction />
   </physical_part>
   <physical_part id="1329328142">
-    <description>625 2RS Ball Bearing
-ABEC 1
-5mm Bore
-16mm OD
-5mm Width</description>
+    <description>625 2RS Ball Bearing. 5mm Bore; 16mm OD; 5mm Width.</description>
     <supplier>OpenBuilds Part Store</supplier>
     <supplier_part_num>SKU: 30</supplier_part_num>
     <manufacturer_part_num>SKU: 30</manufacturer_part_num>
@@ -31,7 +25,7 @@ ABEC 1
     <manufacturing_instruction />
   </physical_part>
   <physical_part id="1476891621">
-    <description>10mm OD * 5mm Bore * 1mm thickness</description>
+    <description>Precision Shim 10mm OD * 5mm Bore * 1mm thickness</description>
     <supplier>OpenBuilds Part Store</supplier>
     <supplier_part_num>SKU: 5</supplier_part_num>
     <manufacturer_part_num>SKU: 5</manufacturer_part_num>
@@ -42,7 +36,7 @@ ABEC 1
     <manufacturing_instruction />
   </physical_part>
   <physical_part id="375339629">
-    <description>A 710 mm length of 20 x 40 mm cross-section V-slot linear rail.</description>
+    <description>Longitudinal beam: 710 mm length of 20 x 40 mm cross-section V-slot linear rail.</description>
     <supplier>OpenBuilds Part Store</supplier>
     <supplier_part_num>SKU: 235 - LP</supplier_part_num>
     <manufacturer_part_num>SKU: 235 - LP</manufacturer_part_num>
@@ -58,11 +52,7 @@ ABEC 1
     </manufacturing_instruction>
   </physical_part>
   <physical_part id="1153134511">
-    <description>M5 Thread Size
-Shiny Nickel Plating
-Use for 10mm size slot (V-Slot)
-Made from strong steel
-Mounts with M5x4mm set screws or standard OpenBuilds M5 screws</description>
+    <description>M5 T-nut</description>
     <supplier>OpenBuilds Part Store</supplier>
     <supplier_part_num>SKU: 536</supplier_part_num>
     <manufacturer_part_num>SKU: 536</manufacturer_part_num>
@@ -71,6 +61,44 @@ Mounts with M5x4mm set screws or standard OpenBuilds M5 screws</description>
     <material_unit>NONE</material_unit>
     <media />
     <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1003724140">
+    <description>Universal L bracket - double</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 485</supplier_part_num>
+    <manufacturer_part_num>SKU: 485</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/l-bracket/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1420365321">
+    <description>8mm M5 Low profile bolt.</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 946</supplier_part_num>
+    <manufacturer_part_num>SKU: 946</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/low-profile-screws-m5/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="522339604">
+    <description>Foot: 400 mm length of 80 x 20 mm cross-section V-slot linear rail.</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 145 - LP</supplier_part_num>
+    <manufacturer_part_num>SKU: 145 - LP</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/v-slot-linear-rail/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction>
+      <step>
+        <description>Cut to length using mitre saw.</description>
+        <media />
+      </step>
+    </manufacturing_instruction>
   </physical_part>
   <brick id="159776940">
     <name>CNC fly food dispenser</name>
@@ -85,6 +113,54 @@ Mounts with M5x4mm set screws or standard OpenBuilds M5 screws</description>
     <name>Base frame</name>
     <abstract />
     <long_description>Base frame for machine. Provides rigid base for robot and also supports the platform for trays/boxes.</long_description>
+    <notes />
+    <license />
+    <media />
+    <assembly_instruction>
+      <step>
+        <description />
+        <media />
+      </step>
+      <step>
+        <description />
+        <media />
+      </step>
+    </assembly_instruction>
+    <function id="2126552331">
+      <description />
+      <designator />
+      <quantity>2</quantity>
+      <implementation type="physical_part" id="522339604" />
+    </function>
+    <function id="866090484">
+      <description />
+      <designator />
+      <quantity>2</quantity>
+      <implementation type="physical_part" id="375339629" />
+    </function>
+    <function id="419854934">
+      <description />
+      <designator />
+      <quantity>4</quantity>
+      <implementation type="physical_part" id="1003724140" />
+    </function>
+    <function id="1461436320">
+      <description />
+      <designator />
+      <quantity>16</quantity>
+      <implementation type="physical_part" id="1153134511" />
+    </function>
+    <function id="110166651">
+      <description />
+      <designator />
+      <quantity>16</quantity>
+      <implementation type="physical_part" id="1420365321" />
+    </function>
+  </brick>
+  <brick id="1394106408">
+    <name>Unnamed</name>
+    <abstract />
+    <long_description />
     <notes />
     <license />
     <media />
