@@ -199,6 +199,17 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <media />
     <manufacturing_instruction />
   </physical_part>
+  <physical_part id="504254057">
+    <description>Harting Metal D-sub Connector Hood, 15 way</description>
+    <supplier>RS Online</supplier>
+    <supplier_part_num>548-9953</supplier_part_num>
+    <manufacturer_part_num>09670150348</manufacturer_part_num>
+    <url>http://uk.rs-online.com/web/p/d-sub-connector-backshells/5489953/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
   <brick id="159776940">
     <name>CNC fly food dispenser</name>
     <abstract />
