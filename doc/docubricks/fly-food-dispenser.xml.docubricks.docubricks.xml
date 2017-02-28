@@ -221,6 +221,83 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <media />
     <manufacturing_instruction />
   </physical_part>
+  <physical_part id="1311252284">
+    <description>MULTICOMP G2111 Plastic Enclosure, Multipurpose, Polycarbonate, 200mm, IP65, 90mm</description>
+    <supplier>Farnell</supplier>
+    <supplier_part_num>1526667</supplier_part_num>
+    <manufacturer_part_num>G2111</manufacturer_part_num>
+    <url>http://uk.farnell.com/multicomp/g2111/box-polycarbonate-200x120x90mm/dp/1526667?ost=1526667&amp;selectedCategoryId=&amp;categoryNameResp=All&amp;searchView=table&amp;iscrfnonsku=false</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="271908541">
+    <description>Multilayer Ceramic Capacitor, Gold Max, 0.47 μF, 50V, 300 Series, ± 20%, Radial Leaded.</description>
+    <supplier>Farnell</supplier>
+    <supplier_part_num>1457710</supplier_part_num>
+    <manufacturer_part_num>C3222C474M5U5TA</manufacturer_part_num>
+    <url>http://uk.farnell.com/kemet/c322c474m5u5ta/cap-mlcc-z5u-470nf-50v-rad/dp/1457710?ost=1457710&amp;selectedCategoryId=&amp;categoryNameResp=All&amp;searchView=table&amp;iscrfnonsku=false</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="147483907">
+    <description>EBM PAPST  414F  Axial Fan, Compact, Tubeaxial, Square, Wire Leaded, Sleeve, 24 VDC, 40 mm, 10 mm, 400F Series</description>
+    <supplier>Farnell</supplier>
+    <supplier_part_num>9601295</supplier_part_num>
+    <manufacturer_part_num>414F</manufacturer_part_num>
+    <url>http://uk.farnell.com/ebm-papst/414f/fan-40x40x10mm-24vdc-8m3-h-22/dp/9601295?ost=9601295&amp;selectedCategoryId=&amp;categoryNameResp=All&amp;searchView=table&amp;iscrfnonsku=false</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="569834756">
+    <description>Through Hole Resistor, 220 ohm, 350 V, Axial Leaded, 600 mW, ± 1%, LR Series</description>
+    <supplier>Farnell</supplier>
+    <supplier_part_num>2330065</supplier_part_num>
+    <manufacturer_part_num>LR1F220R</manufacturer_part_num>
+    <url>http://uk.farnell.com/te-connectivity/lr1f220r/resistor-metal-220r-0-6w-1/dp/2330065?ost=2330065&amp;selectedCategoryId=&amp;categoryNameResp=All&amp;searchView=table&amp;iscrfnonsku=false</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1413390366">
+    <description>Vishay 4N35 Optocoupler, Transistor Output, 1 Channel, DIP, 6 Pins, 50 mA, 5kV, 100%</description>
+    <supplier>Farnell</supplier>
+    <supplier_part_num>1328375</supplier_part_num>
+    <manufacturer_part_num>4N35</manufacturer_part_num>
+    <url>http://uk.farnell.com/vishay/4n35/optocoupler-phototransistor-5000vrms/dp/1328375?ost=1328375&amp;selectedCategoryId=&amp;categoryNameResp=All&amp;searchView=table&amp;iscrfnonsku=false</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="2049686096">
+    <description>Microswitch, SPDT, Solder, 5 A, 250 VAC, 250 VDC</description>
+    <supplier>Farnell</supplier>
+    <supplier_part_num>2213983</supplier_part_num>
+    <manufacturer_part_num>VX521A3</manufacturer_part_num>
+    <url>http://uk.farnell.com/omron-electronic-components/vx521a3/microswitch-lever-5a-solder/dp/2213983?ost=2213983&amp;selectedCategoryId=&amp;categoryNameResp=All&amp;searchView=table&amp;iscrfnonsku=false</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="127015022">
+    <description>Microswitch, SPDT, Solder, 5 A, 125 VAC</description>
+    <supplier>Farnell</supplier>
+    <supplier_part_num>103444</supplier_part_num>
+    <manufacturer_part_num>SS-5GL</manufacturer_part_num>
+    <url>http://uk.farnell.com/omron-electronic-components/ss-5gl/microswitch-spdt-lever-125vac/dp/103444?ost=103444&amp;selectedCategoryId=&amp;categoryNameResp=All&amp;searchView=table&amp;iscrfnonsku=false</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
   <brick id="159776940">
     <name>CNC fly food dispenser</name>
     <abstract />
