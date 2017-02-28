@@ -210,6 +210,17 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <media />
     <manufacturing_instruction />
   </physical_part>
+  <physical_part id="2086043145">
+    <description>Cole-Parmer Masterflex Peristaltic Pump</description>
+    <supplier>Cole-Parmer</supplier>
+    <supplier_part_num>7523-60</supplier_part_num>
+    <manufacturer_part_num>7523-60</manufacturer_part_num>
+    <url>https://www.coleparmer.com/i/mn/0752360</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
   <brick id="159776940">
     <name>CNC fly food dispenser</name>
     <abstract />
