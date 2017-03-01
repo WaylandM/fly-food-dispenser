@@ -367,25 +367,25 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
         </media>
       </step>
       <step>
-        <description>Slide a T-nut into each of the slots of the longitudinal beam.</description>
+        <description>Take a longitudinal beam and lay it on its side so that two parallel v-slots are facing upwards. Slide a T-nut into each of the slots as shown.</description>
         <media>
           <file url="./base_frame_t-nuts_long_beam.jpg" />
         </media>
       </step>
       <step>
-        <description>Attach universal L bracket to a longitudinal beam using 2 x 8mm M5 low profile bolts and the T-nuts inserted in the previous step. Leave bolts loose.</description>
+        <description>Attach universal L bracket to the longitudinal beam using 2 x 8mm M5 low profile bolts and the T-nuts inserted in the previous step. Leave bolts loose.</description>
         <media>
           <file url="./base_frame_attach_bracket_to_long_beam.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Repeat steps above to attach a 2nd universal L bracket to the other end of the longitudinal beam. Then attach a pair of brackets to the other longitudinal beam.</description>
         <media>
           <file url="./base_frame_long_beams_prepared.jpg" />
         </media>
       </step>
       <step>
-        <description>Attach longitudinal beam to feet using universal L bracket, 8mm M5 low profile bolts and T-nuts. Longitudinal beams should be positioned 90mm from the end of the feet.</description>
+        <description>Attach longitudinal beam to feet using universal L bracket, 8mm M5 low profile bolts and T-nuts. Longitudinal beams should be positioned 90mm from the end of the feet. Turning the frame upside down so that the longitudinal beams are resting on the work surface will aid alignment.</description>
         <media>
           <file url="./base_frame_attach_long_beam_to_feet.jpg" />
         </media>
