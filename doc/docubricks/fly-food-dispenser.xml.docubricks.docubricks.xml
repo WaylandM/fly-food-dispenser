@@ -112,7 +112,7 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <manufacturing_instruction />
   </physical_part>
   <physical_part id="1921182216">
-    <description>NEMA17 Stepper Motor 77oz 1.68A</description>
+    <description>NEMA 17 Stepper Motor 77oz 1.68A</description>
     <supplier>Ooznest</supplier>
     <supplier_part_num>NEMA17STEPPERMOTOR</supplier_part_num>
     <manufacturer_part_num>1704HS168A</manufacturer_part_num>
@@ -342,6 +342,50 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <media />
     <manufacturing_instruction />
   </physical_part>
+  <physical_part id="1946528">
+    <description>GT2-2M Timing Pulley - 20 Tooth</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 210</supplier_part_num>
+    <manufacturer_part_num>SKU: 210</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/gt2-2m-timing-pulley-20-tooth/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="957585916">
+    <description>M3 Cap Head Bolts 45 mm</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 105</supplier_part_num>
+    <manufacturer_part_num>SKU: 105</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/m3-cap-head-screws/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1362752078">
+    <description>Aluminium Spacer 1.5"</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 80</supplier_part_num>
+    <manufacturer_part_num>SKU: 80</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/aluminum-spacers/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
+  <physical_part id="1901789903">
+    <description>Motor Mount Plate - NEMA 17 Stepper Motor</description>
+    <supplier>OpenBuilds Part Store</supplier>
+    <supplier_part_num>SKU: 575</supplier_part_num>
+    <manufacturer_part_num>SKU: 575</manufacturer_part_num>
+    <url>http://openbuildspartstore.com/motor-mount-plate-nema-17-stepper-motor/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </physical_part>
   <brick id="159776940">
     <name>CNC fly food dispenser</name>
     <abstract />
@@ -350,6 +394,12 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <license>CC-BY 3.0</license>
     <media />
     <assembly_instruction />
+    <function id="1687955803">
+      <description />
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="brick" id="1774157860" />
+    </function>
   </brick>
   <brick id="1774157860">
     <name>Base frame</name>
@@ -362,38 +412,38 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
       <step>
         <description>Layout components for base frame.</description>
         <media>
-          <file url="./base_frame_components.jpg" />
-          <file url="./base_frame_bracket_and_fastenings.jpg" />
+          <file url="././base_frame_components.jpg" />
+          <file url="././base_frame_bracket_and_fastenings.jpg" />
         </media>
       </step>
       <step>
         <description>Take a longitudinal beam and lay it on its side so that two parallel v-slots are facing upwards. Slide a T-nut into each of the slots as shown.</description>
         <media>
-          <file url="./base_frame_t-nuts_long_beam.jpg" />
+          <file url="././base_frame_t-nuts_long_beam.jpg" />
         </media>
       </step>
       <step>
         <description>Attach universal L bracket to the longitudinal beam using 2 x 8mm M5 low profile bolts and the T-nuts inserted in the previous step. Leave bolts loose.</description>
         <media>
-          <file url="./base_frame_attach_bracket_to_long_beam.jpg" />
+          <file url="././base_frame_attach_bracket_to_long_beam.jpg" />
         </media>
       </step>
       <step>
         <description>Repeat steps above to attach a 2nd universal L bracket to the other end of the longitudinal beam. Then attach a pair of brackets to the other longitudinal beam.</description>
         <media>
-          <file url="./base_frame_long_beams_prepared.jpg" />
+          <file url="././base_frame_long_beams_prepared.jpg" />
         </media>
       </step>
       <step>
         <description>Attach longitudinal beam to feet using universal L bracket, 8mm M5 low profile bolts and T-nuts. Longitudinal beams should be positioned 90mm from the end of the feet. Turning the frame upside down so that the longitudinal beams are resting on the work surface will aid alignment.</description>
         <media>
-          <file url="./base_frame_attach_long_beam_to_feet.jpg" />
+          <file url="././base_frame_attach_long_beam_to_feet.jpg" />
         </media>
       </step>
       <step>
         <description>Completed base frame (upside down).</description>
         <media>
-          <file url="./base_frame_completed.jpg" />
+          <file url="././base_frame_completed.jpg" />
         </media>
       </step>
     </assembly_instruction>
@@ -430,6 +480,67 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <instruction name="" />
   </brick>
   <brick id="1394106408">
+    <name>Y-axis actuator</name>
+    <abstract />
+    <long_description>Provide linear movement in Y direction. A pair of motors are used for motion in the Y axis, because they are required to move the entire gantry. A single motor is used for each of the other two axes.</long_description>
+    <notes />
+    <license />
+    <media />
+    <assembly_instruction>
+      <step>
+        <description>Start by attaching a timing pulley and mount plate to each stepper motor.</description>
+        <media>
+          <file url="././Y-motor-plate-1.jpg" />
+        </media>
+      </step>
+      <step>
+        <description>The timing pulley slides over the shaft of the motor and is held in place by two grub screws.</description>
+        <media>
+          <file url="././Y-motor-plate-2.jpg" />
+        </media>
+      </step>
+      <step>
+        <description>Attach a motor plate to each motor. Place a 1.5" aluminium spacer over each of the four M3 threaded holes in the motor. These spacers act as standoffs between the motor and motor plate. Position the motor plate over the spacers. Insert an M3 Cap Head Bolt through one of the four slots in the plate and through the corresponding spacer and screw loosely into motor. Repeat for the other three bolts. Tighten bolts in diagonal pairs. Note the positions of the cable connector for each motor; this orientation is important for routing cables.</description>
+        <media>
+          <file url="././Y-motor-plate-3.jpg" />
+        </media>
+      </step>
+    </assembly_instruction>
+    <function id="1096334944">
+      <description />
+      <designator />
+      <quantity>2</quantity>
+      <implementation type="physical_part" id="1921182216" />
+    </function>
+    <function id="1792212584">
+      <description />
+      <designator />
+      <quantity>2</quantity>
+      <implementation type="physical_part" id="1901789903" />
+    </function>
+    <function id="1397846322">
+      <description />
+      <designator />
+      <quantity>8</quantity>
+      <implementation type="physical_part" id="1362752078" />
+    </function>
+    <function id="375474614">
+      <description />
+      <designator />
+      <quantity>8</quantity>
+      <implementation type="physical_part" id="957585916" />
+    </function>
+    <function id="393809605">
+      <description />
+      <designator />
+      <quantity>2</quantity>
+      <implementation type="physical_part" id="1946528" />
+    </function>
+    <instruction name="" />
+    <instruction name="" />
+    <instruction name="" />
+  </brick>
+  <brick id="1584869661">
     <name>Unnamed</name>
     <abstract />
     <long_description />
