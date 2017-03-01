@@ -400,6 +400,12 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
       <quantity>1</quantity>
       <implementation type="brick" id="1774157860" />
     </function>
+    <function id="1065397470">
+      <description />
+      <designator />
+      <quantity>1</quantity>
+      <implementation type="brick" id="1394106408" />
+    </function>
   </brick>
   <brick id="1774157860">
     <name>Base frame</name>
@@ -505,6 +511,55 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
           <file url="././Y-motor-plate-3.jpg" />
         </media>
       </step>
+    </assembly_instruction>
+    <function id="1096334944">
+      <description />
+      <designator />
+      <quantity>2</quantity>
+      <implementation type="physical_part" id="1921182216" />
+    </function>
+    <function id="1792212584">
+      <description />
+      <designator />
+      <quantity>2</quantity>
+      <implementation type="physical_part" id="1901789903" />
+    </function>
+    <function id="1397846322">
+      <description />
+      <designator />
+      <quantity>8</quantity>
+      <implementation type="physical_part" id="1362752078" />
+    </function>
+    <function id="375474614">
+      <description />
+      <designator />
+      <quantity>8</quantity>
+      <implementation type="physical_part" id="957585916" />
+    </function>
+    <function id="393809605">
+      <description />
+      <designator />
+      <quantity>2</quantity>
+      <implementation type="physical_part" id="1946528" />
+    </function>
+    <function id="1904473031">
+      <description />
+      <designator />
+      <quantity>2</quantity>
+      <implementation type="brick" id="1584869661" />
+    </function>
+    <instruction name="" />
+    <instruction name="" />
+    <instruction name="" />
+  </brick>
+  <brick id="1584869661">
+    <name>Y-axis actuator carriage</name>
+    <abstract />
+    <long_description />
+    <notes />
+    <license />
+    <media />
+    <assembly_instruction>
       <step>
         <description />
         <media>
@@ -572,72 +627,30 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
         </media>
       </step>
       <step>
-        <description>Completed Y carriage. Build a 2nd</description>
+        <description>Completed Y-axis actuator carriage.</description>
         <media>
           <file url="./Y-carriage-10.jpg" />
         </media>
       </step>
     </assembly_instruction>
-    <function id="1096334944">
-      <description />
-      <designator />
-      <quantity>2</quantity>
-      <implementation type="physical_part" id="1921182216" />
-    </function>
-    <function id="1792212584">
-      <description />
-      <designator />
-      <quantity>2</quantity>
-      <implementation type="physical_part" id="1901789903" />
-    </function>
-    <function id="1397846322">
-      <description />
-      <designator />
-      <quantity>8</quantity>
-      <implementation type="physical_part" id="1362752078" />
-    </function>
-    <function id="375474614">
-      <description />
-      <designator />
-      <quantity>8</quantity>
-      <implementation type="physical_part" id="957585916" />
-    </function>
-    <function id="393809605">
-      <description />
-      <designator />
-      <quantity>2</quantity>
-      <implementation type="physical_part" id="1946528" />
-    </function>
-    <function id="1191867847">
+    <function id="1938140154">
       <description />
       <designator />
       <quantity>8</quantity>
       <implementation type="physical_part" id="465396538" />
     </function>
-    <function id="1796641877">
+    <function id="731490866">
       <description />
       <designator />
       <quantity>16</quantity>
       <implementation type="physical_part" id="1329328142" />
     </function>
-    <function id="932208958">
+    <function id="922979825">
       <description />
       <designator />
-      <quantity>8</quantity>
+      <quantity>16</quantity>
       <implementation type="physical_part" id="1476891621" />
     </function>
-    <instruction name="" />
-    <instruction name="" />
-    <instruction name="" />
-  </brick>
-  <brick id="1584869661">
-    <name>Unnamed</name>
-    <abstract />
-    <long_description />
-    <notes />
-    <license />
-    <media />
-    <assembly_instruction />
   </brick>
   <author id="1685846799">
     <name>Matthew T Wayland</name>
