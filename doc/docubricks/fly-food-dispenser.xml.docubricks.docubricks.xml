@@ -568,6 +568,30 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
           <file url="./././././Y-motor-plate-3.jpg" />
         </media>
       </step>
+      <step>
+        <description>The next stage of the build involves attaching each motor to a Y-axis actuator carriage. This requires 3 x 8mm M5 low profile bolts and three T-nuts per motor.</description>
+        <media>
+          <file url="./Y-motor-carriage-assembly-1.jpg" />
+        </media>
+      </step>
+      <step>
+        <description>The motor plate is attached to the bottom of the Y-axis actuator carriage. The bottom of the  carriage is the end where the two wheels are mounted on eccentric spacers, i.e. the end with the larger diameter (7.14 mm) holes. Place the carriage on top of the motor plate and insert the three bolts as shown.</description>
+        <media>
+          <file url="./Y-motor-carriage-assembly-2.jpg" />
+        </media>
+      </step>
+      <step>
+        <description>The bolts are secured using M5 T-nuts.</description>
+        <media>
+          <file url="./Y-motor-carriage-assembly-3.jpg" />
+        </media>
+      </step>
+      <step>
+        <description>The completed motor-carriage assemblies should appear as in the photograph.</description>
+        <media>
+          <file url="./Y-motor-carriage-assembly-4.jpg" />
+        </media>
+      </step>
     </assembly_instruction>
     <function id="1096334944">
       <description />
@@ -604,6 +628,18 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
       <designator />
       <quantity>2</quantity>
       <implementation type="brick" id="1584869661" />
+    </function>
+    <function id="2037633447">
+      <description />
+      <designator />
+      <quantity>6</quantity>
+      <implementation type="physical_part" id="1420365321" />
+    </function>
+    <function id="207976163">
+      <description />
+      <designator />
+      <quantity>6</quantity>
+      <implementation type="physical_part" id="1153134511" />
     </function>
     <instruction name="" />
     <instruction name="" />
