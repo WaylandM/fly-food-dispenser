@@ -395,7 +395,7 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <material_amount />
     <material_unit>NONE</material_unit>
     <media>
-      <file url="./V-Slot-Gantry-Plate.jpg" />
+      <file url="./././V-Slot-Gantry-Plate.jpg" />
     </media>
     <manufacturing_instruction />
   </physical_part>
@@ -475,38 +475,38 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
       <step>
         <description>Layout components for base frame.</description>
         <media>
-          <file url="./././base_frame_components.jpg" />
-          <file url="./././base_frame_bracket_and_fastenings.jpg" />
+          <file url="./././././base_frame_components.jpg" />
+          <file url="./././././base_frame_bracket_and_fastenings.jpg" />
         </media>
       </step>
       <step>
         <description>Take a longitudinal beam and lay it on its side so that two parallel v-slots are facing upwards. Slide a T-nut into each of the slots as shown.</description>
         <media>
-          <file url="./././base_frame_t-nuts_long_beam.jpg" />
+          <file url="./././././base_frame_t-nuts_long_beam.jpg" />
         </media>
       </step>
       <step>
         <description>Attach universal L bracket to the longitudinal beam using 2 x 8mm M5 low profile bolts and the T-nuts inserted in the previous step. Leave bolts loose.</description>
         <media>
-          <file url="./././base_frame_attach_bracket_to_long_beam.jpg" />
+          <file url="./././././base_frame_attach_bracket_to_long_beam.jpg" />
         </media>
       </step>
       <step>
         <description>Repeat steps above to attach a 2nd universal L bracket to the other end of the longitudinal beam. Then attach a pair of brackets to the other longitudinal beam.</description>
         <media>
-          <file url="./././base_frame_long_beams_prepared.jpg" />
+          <file url="./././././base_frame_long_beams_prepared.jpg" />
         </media>
       </step>
       <step>
         <description>Attach longitudinal beam to feet using universal L bracket, 8mm M5 low profile bolts and T-nuts. Longitudinal beams should be positioned 90mm from the end of the feet. Turning the frame upside down so that the longitudinal beams are resting on the work surface will aid alignment.</description>
         <media>
-          <file url="./././base_frame_attach_long_beam_to_feet.jpg" />
+          <file url="./././././base_frame_attach_long_beam_to_feet.jpg" />
         </media>
       </step>
       <step>
         <description>Completed base frame (upside down).</description>
         <media>
-          <file url="./././base_frame_completed.jpg" />
+          <file url="./././././base_frame_completed.jpg" />
         </media>
       </step>
     </assembly_instruction>
@@ -553,19 +553,19 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
       <step>
         <description>Start by attaching a timing pulley and mount plate to each stepper motor.</description>
         <media>
-          <file url="./././Y-motor-plate-1.jpg" />
+          <file url="./././././Y-motor-plate-1.jpg" />
         </media>
       </step>
       <step>
-        <description>The timing pulley slides over the shaft of the motor and is held in place by two grub screws.</description>
+        <description>The timing pulley slides over the shaft of the motor and is held in place by two grub screws. Tighten grub screws using 1.5 mm Allen (hex) key.</description>
         <media>
-          <file url="./././Y-motor-plate-2.jpg" />
+          <file url="./././././Y-motor-plate-2.jpg" />
         </media>
       </step>
       <step>
         <description>Attach a motor plate to each motor. Place a 1.5" aluminium spacer over each of the four M3 threaded holes in the motor. These spacers act as standoffs between the motor and motor plate. Position the motor plate over the spacers. Insert an M3 Cap Head Bolt through one of the four slots in the plate and through the corresponding spacer and screw loosely into motor. Repeat for the other three bolts. Tighten bolts in diagonal pairs. Note the positions of the cable connector for each motor; this orientation is important for routing cables.</description>
         <media>
-          <file url="./././Y-motor-plate-3.jpg" />
+          <file url="./././././Y-motor-plate-3.jpg" />
         </media>
       </step>
     </assembly_instruction>
@@ -618,75 +618,75 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
     <media />
     <assembly_instruction>
       <step>
-        <description />
+        <description>Each Delrin wheel requires two 625 2RS ball bearings and a precision shim. Insert a bearing into one side of the wheel and then place the wheel bearing side down on the work surface. Place the precision shim inside the wheel on top of the centre of the bearing. Insert the 2nd bearing into the wheel.</description>
         <media>
-          <file url="././wheel_components.jpg" />
+          <file url="././././wheel_components.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Layout the parts required to build the Y-axis actuator carriage.</description>
         <media>
-          <file url="././Y-carriage-components.jpg" />
+          <file url="././././Y-carriage-components.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Insert 25 mm M5 bolts through holes in the plate as shown in the photograph. Note that two of the bolts pass through the 5 mm diameter holes and the other two through the 7.14 mm diameter holes. The 7.14 mm diameter holes are designed to accommodate the eccentric spacers (see below).</description>
         <media>
-          <file url="././Y-carriage-1.jpg" />
+          <file url="././././Y-carriage-1.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Start with the bolts passing through the 5 mm diameter holes. Slide a 6 mm aluminium spacer over each bolt.</description>
         <media>
-          <file url="././Y-carriage-2.jpg" />
+          <file url="././././Y-carriage-2.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Next place a precision shim on top of each aluminium spacer.</description>
         <media>
-          <file url="././Y-carriage-3.jpg" />
+          <file url="././././Y-carriage-3.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Then add a wheel. If the shim between the bearings is not centered, it may prevent the wheel from sliding onto the bolt. To centre the shim between the bearings, rotate the wheel as you slide it onto the bolt.</description>
         <media>
-          <file url="././Y-carriage-4.jpg" />
+          <file url="././././Y-carriage-4.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Secure each wheel in place using an M5 nylon insert hex locknut.</description>
         <media>
-          <file url="././Y-carriage-5.jpg" />
+          <file url="././././Y-carriage-5.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>The bolts passing through the 7.14 mm diameter holes are fitted with 6mm eccentric spacers, instead of the circular spacers used on the other pair of bolts. One end of the eccentric spacer is circular in cross-section and the other end is hexagonal. There is a flange where the two different profiles meet. Slide an eccentric spacer over the bolt, round end first, and push into the gantry plate.</description>
         <media>
-          <file url="././Y-carriage-6.jpg" />
+          <file url="././././Y-carriage-6.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Place a precision shim on top of the eccentric spacer.</description>
         <media>
-          <file url="././Y-carriage-7.jpg" />
+          <file url="././././Y-carriage-7.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Add a wheel.</description>
         <media>
-          <file url="././Y-carriage-8.jpg" />
+          <file url="././././Y-carriage-8.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Secure wheel using an M5 nylon insert hex locknut.</description>
         <media>
-          <file url="././Y-carriage-9.jpg" />
+          <file url="././././Y-carriage-9.jpg" />
         </media>
       </step>
       <step>
-        <description>Completed Y-axis actuator carriage.</description>
+        <description>The completed Y-axis actuator carriage should look like this.</description>
         <media>
-          <file url="././Y-carriage-10.jpg" />
+          <file url="././././Y-carriage-10.jpg" />
         </media>
       </step>
     </assembly_instruction>
@@ -725,6 +725,12 @@ Dimensions (mm) 24.39 OD x 15.974 +/- 0.026 ID  x 10.23 'thick'</description>
       <designator />
       <quantity>2</quantity>
       <implementation type="physical_part" id="1025711165" />
+    </function>
+    <function id="549794192">
+      <description />
+      <designator />
+      <quantity>4</quantity>
+      <implementation type="physical_part" id="246810053" />
     </function>
   </brick>
   <author id="1685846799">
