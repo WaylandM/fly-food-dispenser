@@ -1014,7 +1014,104 @@ Software source code</long_description>
     <notes />
     <license />
     <media />
-    <assembly_instruction />
+    <assembly_instruction>
+      <step>
+        <description>Each Delrin wheel requires two 625 2RS ball bearings and a precision shim. Insert a bearing into one side of the wheel and then place the wheel bearing side down on the work surface. Place the precision shim inside the wheel on top of the centre of the bearing. Insert the 2nd bearing into the wheel.</description>
+        <media>
+          <file url="./wheel_components.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-components.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-1.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-2a.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-2b.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-3.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-4.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-5.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-6.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-7.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-8.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-9.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-10.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-11.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-12.jpg" />
+        </media>
+      </step>
+      <step>
+        <description />
+        <media>
+          <file url="./x-axis-13.jpg" />
+        </media>
+      </step>
+    </assembly_instruction>
     <function id="818143008">
       <description />
       <designator />
