@@ -693,55 +693,55 @@ Software source code</long_description>
         </media>
       </step>
       <step>
-        <description>Slide the carriage on to the Y-axis rail. Determine the orientation of the Y-axis rail.</description>
+        <description>Slide the carriage on to the Y-axis rail and then determine the orientation of the Y-axis rail. The photograph shows the left side rail. Note that the gantry plate of the carriage and the vertical post will be on the outside of the machine. Also, the cable connector for the motor (arrowed) faces towards the rear of the machine.</description>
         <media>
           <file url="./Y-actuator-carriage-on-rail-labelled.jpg" />
         </media>
       </step>
       <step>
-        <description>Lay the timing belt into the slot of the rail (tooth-side down). At the end of the rail that will be at the front of the machine, slide two T-nuts over the timing belt and into the slot.</description>
+        <description>Lay the timing belt into the slot of the rail (tooth-side down), feeding it under the bottom wheels of the carriage. At the end of the rail that will be at the front of the machine, leave 20-30 mm of timing belt protruding. Gripping the end of the timing belt between thumb and forefinger of one hand, use the other hand to slide two M5 T-nuts over the timing belt and into the slot. Screw an  8mm M5 low profile bolt into the T-nut nearest the end of the rail to secure this end of the timing belt in position. Loosely attach a cast corner bracket (not shown) to the rail using the 2nd T-nut and an 8mm M5 low profile bolt.</description>
         <media>
           <file url="./././Y-anchor-belt-front.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Create a loop in the timing belt between the bottom wheels of the carriage. Hook the looped timing belt over the pulley on the motor. It may be necessary to adjust the position of the pulley on the shaft of the motor, so that the teeth on the pulley align with the timing belt. Loosen the two grub screws using a 1.5 mm Allen (hex) key, reposition the pulley and then tighten the two grub screws.</description>
         <media>
           <file url="./././Y-actuator-adj-pulley.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>At the other (rear) end of the rail, slide an M5 T-nut over the timing belt and into the slot. Push this T-nut along the slot until it is approximately 50 mm away from the end of the rail. The timing belt posterior to this T-nut should be pulled out of the slot. Then slide a 2nd M5 T-nut into the slot.</description>
         <media>
           <file url="./././Y-anchor-belt-rear-1.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Grasp the end of the timing belt between thumb and forefinger, and pull towards the rear end of the rail to remove slack. While continuing to pull on the timing belt, anchor it in place by screwing an 8 mm M5 low profile bolt into the front T-nut. Loosely attach a cast corner bracket to the rail using the other T-nut and an 8mm M5 low profile bolt.</description>
         <media>
           <file url="./././Y-anchor-belt-rear-2.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>The Y-axis rail is now ready to be mounted on the base frame of the machine. Insert an M5 T-nut into the top slot on the inner-side of both feet. These T-nuts will be used to attach the cast corner brackets on the Y-axis rail.</description>
         <media>
           <file url="./././Y-T-nut-in-foot.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Rest the rear end of the Y-axis rail on the rear foot of the base frame. The head of the bolt anchoring the timing belt at the front end of the rail should slide into the slot at the top of the front foot. It may be necessary to adjust the position of this bolt to that the end of the rail and the front of the foot can be made flush. Once the rail is properly aligned with the base frame, secure it in position using the cast corner brackets. Use 10 mm M5 low profile bolts to fix the brackets to the feet.</description>
         <media>
           <file url="./././Y-bolt-head-in-v-slot.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Repeat the previous nine steps for the Y-axis rail on the other side of the machine.</description>
         <media>
           <file url="./././Y-actuators-attached-main-frame-labeled.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Tension the wheels of the carriages against the Y-axis rail by rotating the eccentric spacers using an 8mm spanner. The eccentric spacers provide an adjustment range of approximately 0.79 mm.</description>
         <media>
           <file url="./././Y-adj-eccentric-mounted.jpg" />
         </media>
