@@ -918,7 +918,7 @@ Software source code</long_description>
         </media>
       </step>
       <step>
-        <description>Tension the wheels of the carriages against the Y-axis rail by rotating the eccentric spacers using an 8mm spanner. The eccentric spacers provide an adjustment range of approximately 0.79 mm.</description>
+        <description>Tighten the wheels of the carriages against the Y-axis rail by rotating the eccentric spacers using an 8mm spanner. The eccentric spacers provide an adjustment range of approximately 0.79 mm.</description>
         <media>
           <file url="./././././././././././././././Y-adj-eccentric-mounted.jpg" />
         </media>
@@ -1343,116 +1343,116 @@ Finally pull on the free end of the timing belt to take up slack and then anchor
     <media />
     <assembly_instruction>
       <step>
-        <description />
+        <description>Each of the four Delrin wheels requires two 625 2RS ball bearings and a precision shim. Insert a bearing into one side of the wheel and then place the wheel bearing side down on the work surface. Place the precision shim inside the wheel on top of the centre of the bearing. Insert the 2nd bearing into the wheel.</description>
         <media>
           <file url="./wheel_components.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Layout components required to build the Z-axis actuator. This picture shows all components, except four of the precision shims and all four of the 8mm low profile M5 bolts.</description>
         <media>
           <file url="././z-components.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>The nutblock will run along the 8mm lead screw of the z-actuator. Insert two M5 nyloc nuts into the nut block.</description>
         <media>
           <file url="./z-nut-block.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Attach nut block to V-slot gantry plate using two 15mm M5 low profile bolts and the M5 nyloc nuts.</description>
         <media>
           <file url="./z-nut-block-gantry-plate.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>The spacer blocks each have a pair of M5 threaded holes. Use these threaded holes and a pair of 8mm M5 low profile bolts to attach each spacer block to the V-slot gantry plate.</description>
         <media>
           <file url="./z-attach-spacers-gantry-plate-1.jpg" />
           <file url="./z-attach-spacers-gantry-plate-2.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Insert four 40mm M5 low profile bolts through the V-slot gantry plate and spacer blocks.</description>
         <media>
           <file url="./z-wheels-1.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Slide a 6mm aluminium spacer over each of one pair of bolts. Place eccentric spacers over the other pair of bolts. One end of the eccentric spacer is circular in cross-section and the other end is hexagonal. There is a flange where the two different profiles meet. Slide the eccentric spacer over the bolt, round end first, and push into the spacer block. In the picture 6mm aluminium spacers have been place over the left side pair of bolts and eccentric spacers over the right side bolts.</description>
         <media>
           <file url="./z-wheels-2.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Add a precision shim to each bolt.</description>
         <media>
           <file url="./z-wheels-3.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Add a wheel to each bolt.</description>
         <media>
           <file url="./z-wheels-4.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Secure wheels using M5 nyloc nuts. Z-carriage is complete.</description>
         <media>
           <file url="./z-wheels-5.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Slide carriage onto z-axis rail. Tighten the wheels of the carriage against the Z-axis rail by rotating the eccentric spacers using an 8mm spanner. The eccentric spacers provide an adjustment range of approximately 0.79 mm.</description>
         <media>
           <file url="./z-carriage-onto-rail.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Attach flexible coupling to shaft of stepper motor using inset grub screws.</description>
         <media>
           <file url="./z-attach-coupler-motor.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Insert lead screw through nut block. Next slide a lock collar onto each end of the lead screw, followed by a ball bearing (688Z 8x16x5).</description>
         <media>
           <file url="./z-leadscrew-bearings.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Attach a threaded rod plate to the bottom of the Z-axis rail using two 3/4" self tapping screws. Enlarge holes in Z-axis rail using 4.5mm drill bit to make it easier to insert self tapping screws.</description>
         <media>
           <file url="./z-attach-threaded-rod-plate-bottom.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Attach a threaded rod plate  to the top of the Z-axis rail using two 3/4" self tapping screws.</description>
         <media>
           <file url="./z-attach-threaded-rod-plate-top.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Fix bearings against threaded rod plates using lock collars.</description>
         <media>
           <file url="./z-secure-bearings-using-lock-collars.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Insert the thre 45 mm M3 cap head bolts through the top threaded rod plate. Slide a 1.5" aluminium spacer over each bolt.</description>
         <media>
           <file url="./z-m3bolts-spacers-motor.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Attach stepper motor to top threaded rod plate using the 45mm M3 bolts. Attach flexible coupling to lead screw using inset grub screws.</description>
         <media>
           <file url="./z-completed-actuator-2.jpg" />
         </media>
       </step>
       <step>
-        <description />
+        <description>Finished Z-axis actuator.</description>
         <media>
           <file url="./z-completed-actuator-1.jpg" />
         </media>
